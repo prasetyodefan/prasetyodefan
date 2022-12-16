@@ -1,16 +1,19 @@
-### Hi there 👋
+## Prasetyo Defan
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:prasetyodefan@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/samepack_/)](https://www.twitter.com/samepack_)
 
-<!--
-**prasetyodefan/prasetyodefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Prasetyo defan, a Electrical student passionated about development and entrepreneurship.
 
-Here are some ideas to get you started:
+- :books: I’m currently learning Python and Git 
+- :computer: Techs: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+
+
+- :pushpin: Interests: UI Design, Video Editing, Photography.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prasetyodefan&show_icons=true&hide_border=true">
