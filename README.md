@@ -15,4 +15,5 @@ Hi, I'm Prasetyo Defan, a Electrical student passionated about development and e
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:prasetyodefan@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/samepack_/)](https://www.twitter.com/samepack_)
 
+![Profile views](https://gpvc.arturio.dev/prasetyodefan)<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=prasetyodefan&show_icons=true&hide_border=true">
