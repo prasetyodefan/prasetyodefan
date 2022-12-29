@@ -1,4 +1,4 @@
-Hello, i'm Prasetyo Defan and I am currently an electrical student. I am passionate about development and photography. In my free time, I enjoy learning about new technologies and techniques in these fields. I am always looking for new opportunities to improve my skills and make a positive impact on the world. I believe that with hard work and dedication, I can achieve my goals and make a difference in the lives of others.
+Hello, i'm Prasetyo Defan 
 
 - :books: I’m currently learning Python and Git 
 - :computer: Techs: 
