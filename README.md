@@ -1,17 +1,28 @@
-Hello, i'm Prasetyo Defan 
+### 💫 About Me:
+Hello, i'm Prasetyo Defan
 
-- :books: I’m currently learning Python and Git 
-- :computer: Techs: 
 
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasetyodefan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@prasetyodeff) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samepack_) 
 
-- :mailbox: Contact me on : <br>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:prasetyodefan@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/samepack_/)](https://www.twitter.com/samepack_)
+### 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
+### 📊 GitHub Stats:
+[![](https://visitcount.itsvg.in/api?id=prasetyodefan&icon=5&color=0)](https://visitcount.itsvg.in)<br/>
+![](https://github-readme-stats.vercel.app/api?username=prasetyodefan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prasetyodefan&theme=dark&hide_border=false&align)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyodefan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/prasetyodefan)<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=prasetyodefan&show_icons=true&hide_border=true">
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prasetyodefan&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+
+### 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=samepack_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+#### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
