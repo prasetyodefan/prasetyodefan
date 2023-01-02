@@ -8,7 +8,7 @@ Hello, i'm Prasetyo Defan
 ### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ### 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=prasetyodefan&icon=5&color=0)](https://visitcount.itsvg.in)<br/>
+![Profile views](https://gpvc.arturio.dev/prasetyodefan)<br>
 ![](https://github-readme-stats.vercel.app/api?username=prasetyodefan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prasetyodefan&theme=dark&hide_border=false&align)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyodefan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
