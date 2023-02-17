@@ -1,4 +1,4 @@
-### 💫 Hii, Iam Prasetyo Defan
+### 💫 Hii, I am Prasetyo Defan
 
 ##
 
