@@ -1,6 +1,15 @@
-### 💫 Hii, I am Prasetyo Defan
+### 💫 Hi, I am Prasetyo Defan
+---
+<img src="https://i.ibb.co.com/Btx33Md/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9-3.gif">
 
 ##
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://rendy-ptr.github.io/rendy-ptr/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://rendy-ptr.github.io/rendy-ptr/github-snake.svg" />
+  <img alt="github-snake" src="https://rendy-ptr.github.io/prasetyodefan/github-snake.svg" />
+</picture>
+</div>
 
 ### 🌐 Reach me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasetyodefan) 
